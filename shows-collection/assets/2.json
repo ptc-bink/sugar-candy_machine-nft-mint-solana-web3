@@ -1,0 +1,26 @@
+{
+    "name": "Shoes 2",
+    "symbol": "SC",
+    "description": "Collection of my own nft's.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "0"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "HEK6KeXnZyso1GM2qvCQVGvRrQqUE13bGXiJvmJEZVtQ",
+                "share": 100
+            }
+        ]
+    }
+}
